@@ -1,0 +1,2 @@
+No se podría resolver tan sencillamente ya que en ese caso se rechazaría el push de la segunda persona o habría un conflicto en el merge.
+La solución para la segunda persona sería hacer git pull y luego un merge. 
