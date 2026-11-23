@@ -1,2 +1,2 @@
 Aquí va a escribir la rama 1:
-Aquí va a escribir la rama 2: 
+Aquí va a escribir la rama 2: hola, soy la rama 2
